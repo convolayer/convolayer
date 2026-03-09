@@ -1,5 +1,7 @@
 # 🧠 ConvoLayer
 
+![ConvoLayer](convolayer-banner.png)
+
 **Open Infrastructure for AI-Powered Communication**
 
 ConvoLayer is an open-source platform that provides an **AI layer for modern communication tools**.
